@@ -22,6 +22,8 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
+        <h2>Important Announcement!</h2>
+        <p>I've not slept so far guys LOL!</p>
         <p>
           I'm Selim a computer science student, and a 1200-rated chess player
         </p>

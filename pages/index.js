@@ -33,6 +33,7 @@ export default function Home({ allPostsData }) {
           soon.
           <br />
           You can follow me on
+          <br />
           <a href="https://github.com/xValenciax/">My Github Link</a>
         </p>
       </section>
